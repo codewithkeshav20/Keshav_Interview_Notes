@@ -1,1 +1,12 @@
-# Interview-Notes
+My Personal Practice Interview notes :
+DATABASE
+DBMS
+OOPS
+OS
+CN
+SOFTWARE ENGINEERING
+
+
+
+
+
